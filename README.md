@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rupesh+Raut!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Nepal </h3>
+<h3 align="center">A passionate software developer </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working at **Amnil Technologies**
+ 🔭 I’m currently studying **Master of Research in Computer and System Engineering** at **TU Ilmenau**
  
  🌱 I’m currently learning **NodeJs, Advanced React.js**
 
